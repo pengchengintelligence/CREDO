@@ -1,0 +1,11 @@
+# Dependencies inferred from the scripts supplied in this release.
+# Match CUDA / PyTorch builds to your platform.
+numpy
+pandas
+scipy
+scikit-learn
+torch
+transformers
+librosa
+soundfile
+tqdm
